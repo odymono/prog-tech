@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\CPP\LAB3\Lab3\Lab3\wndMain.h(237,19): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "CreateWindowA"
+D:\CPP\LAB3\Lab3\Lab3\wndMain.h(239,17): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "CreateWindowA"
+D:\CPP\LAB3\Lab3\Lab3\wndMain.h(242,2): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "CreateWindowA"
+D:\CPP\LAB3\Lab3\Lab3\wndMain.h(229): warning C4715: SoftwareChildProcedure: значение возвращается не при всех путях выполнения
+D:\CPP\LAB3\Lab3\Lab3\wndMain.h(202): warning C4715: SoftwareMainProcedure: значение возвращается не при всех путях выполнения
+  Lab3.vcxproj -> D:\CPP\LAB3\Lab3\Debug\Lab3.exe
