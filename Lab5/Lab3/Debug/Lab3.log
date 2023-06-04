@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Lab3.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Assembling assemblyModule.asm...
+  main.cpp
+D:\CPP\LAB3\Lab3\Lab3\wndMain.h(268,19): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "CreateWindowA"
+D:\CPP\LAB3\Lab3\Lab3\wndMain.h(270,17): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "CreateWindowA"
+D:\CPP\LAB3\Lab3\Lab3\wndMain.h(273,2): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "CreateWindowA"
+D:\CPP\LAB3\Lab3\Lab3\wndMain.h(260): warning C4715: SoftwareChildProcedure: значение возвращается не при всех путях выполнения
+D:\CPP\LAB3\Lab3\Lab3\wndMain.h(233): warning C4715: SoftwareMainProcedure: значение возвращается не при всех путях выполнения
+  Lab3.vcxproj -> D:\CPP\LAB3\Lab3\Debug\Lab5.exe
