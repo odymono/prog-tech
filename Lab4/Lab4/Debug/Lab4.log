@@ -1,0 +1,9 @@
+﻿  Assembling coloring.asm...
+  main.cpp
+D:\Documents\GitHub\prog-tech\Lab4\Lab4\wndMain.h(6,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Documents\GitHub\prog-tech\Lab4\Lab4\wndMain.h(192): warning C4715: SoftwareChildProcedure: значение возвращается не при всех путях выполнения
+D:\Documents\GitHub\prog-tech\Lab4\Lab4\wndMain.h(165): warning C4715: SoftwareMainProcedure: значение возвращается не при всех путях выполнения
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ _graphColoring в функции "long __stdcall SoftwareMainProcedure(struct HWND__ *,unsigned int,unsigned int,long)" (?SoftwareMainProcedure@@YGJPAUHWND__@@IIJ@Z).
+    Указание на символы, которые определены и могут подойти:
+      _graphColoring@0
+D:\Documents\GitHub\prog-tech\Lab4\Debug\Lab4.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
